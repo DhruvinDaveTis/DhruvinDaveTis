@@ -30,6 +30,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" />&nbsp;
+  <img height="48px" src="Resources/digitalocean.svg" alt="Digital Ocena" />
 </p>
 
 #### Databases
