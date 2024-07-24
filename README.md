@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 </p>
 
 #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{D}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{DhruvinDaveTis}/count.svg)
 ---
 
 *Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
