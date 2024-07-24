@@ -84,6 +84,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvinDaveTis&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{D}/count.svg)
 ---
 
 *Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
