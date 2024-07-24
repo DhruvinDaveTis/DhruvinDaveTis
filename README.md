@@ -76,12 +76,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 ## 📈 GitHub Stats
 
 <p align="center" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvinDaveTis&show_icons=true&theme=radical" alt="Your Name's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokyonight&theme=radical" alt="Your Name's GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvinDaveTis&show_icons=true&theme=tokyonight" alt="Your Name's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvinDaveTis&theme=tokyonight" alt="Your Name's GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvinDaveTis&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvinDaveTis&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 #### Profile views counter
