@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 <p align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=DhruvinDaveTis&show_icons=true&theme=radical" alt="Your Name's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvinDaveTis&theme=radical" alt="Your Name's GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokyonight&theme=radical" alt="Your Name's GitHub Streak Stats" />
 </p>
 
 <p align="center">
